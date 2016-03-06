@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="moccasin">#F50056</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="bkg_card">#8C9EFF</color>
+    <color name="loginBackground">#ff88ccd2</color>
+    <color name="loginButton">#B2DFDB</color>
+    <color name="green">#4CAF50</color>
+    <color name="primaryText">#212121</color>
+    <color name="Gray">#736F6E</color>
+    <color name="secondaryText">#727272</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="lightPrimaryColor">#C8E6C9</color>
+    <color name="red">#F44336</color>
+    <color name="orange">#FF9800</color>
+</resources>
